@@ -1,5 +1,4 @@
-# SYST0003-1
-Linear Control System - Automated glucose regulation system
+# Automated glucose regulation system.
 Project realized as part of the "Linear Control System" course given by Guillaume Drion to graduate computer engineering students at the University of Liège during the academic year 2019-2020.
 
 # Context
